@@ -1,4 +1,11 @@
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
 *.log
+
 wp-config.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
