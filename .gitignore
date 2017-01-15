@@ -12,6 +12,8 @@ wp-content/plugins/hello.php
 
 # wp core (as of 3.4.1)
 /.htaccess
+/sitemap.xml
+/sitemap.xml.gz
 /db-config.php
 /index.php
 /license.txt
